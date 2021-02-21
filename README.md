@@ -3,9 +3,7 @@
 ### **What i know is :**
 1. C++
 2. Pure Python
-3. Linux
-  1. LPIC1
-  2. LPIC2
+3. Linux > LPIC1
 4. Git
 5. Docker 
 
