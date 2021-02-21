@@ -5,6 +5,10 @@
 2. Pure Python
 3. Linux > LPIC1
 4. Git
-5. Docker 
+5. Docker
 
-![Image of Yaktocat](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+
+
+## Sometime i write someting, you can read them in [My weblog](https://virgool.io/@m_shabane)
