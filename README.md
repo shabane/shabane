@@ -9,6 +9,7 @@
 6. C# WPF
 
 > at now im learning django
+> 
 > if there where time i like to learn C and Javascript or even Erlang and Go
 
 ![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
