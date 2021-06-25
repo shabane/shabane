@@ -4,7 +4,7 @@ _im a software engineer student in Sorush Universite in Isfahan. i like to code.
 my Only DREAM is travel to somewhere out of Iran for live the life._
 
 
-> #### **i know:**
+#### **i know:**
 > 1. C++
 > 2. Python
 > 3. Linux
