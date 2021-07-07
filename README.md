@@ -18,6 +18,7 @@ my Only DREAM is travel to somewhere out of Iran for live the life._
 ---
 ![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabane)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Sometime i write blog, you can read them on [My weblog](https://virgool.io/@m_shabane)
