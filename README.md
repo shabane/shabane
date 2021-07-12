@@ -1,24 +1,34 @@
-### _Hi Im Arya Shabane_
+### _Hi Im Arya_
 
 _im a software engineer student in Sorush Universite in Isfahan. i like to code. i love freedom and free software (:
-my Only DREAM is travel to somewhere out of Iran for live the life._
+my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
 
-#### **i know:**
+#### i know
 > 1. C++
 > 2. Python
 > 3. Linux
 > 4. Git
 > 5. Docker
 > 6. C#
----
-> at now im learning django and rust.
+
+
+#### I'm working on . . .
+>  for now im learning _Django_ and _Rust_.
 > 
-> if there where time i like to learn C and Javascript or even Erlang and Go!
----
+>  if there where time i like to learn _Javascript_ or even _Erlang_!
+
+#### My review
 > ![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 >
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabane&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Sometime i write blog, you can read them on [My weblog](https://virgool.io/@m_shabane)
+#### Me on social Network
+> [My weblog](https://virgool.io/@m_shabane)
+> 
+> [insatagram](https://www.instagram.com/arya_shabane)
+>
+> [twitter](https://twitter.com/m_shabane)
+> 
+> [telegram](t.me/bitorbit)
