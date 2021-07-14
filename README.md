@@ -11,10 +11,10 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 > 4. Git
 > 5. Docker
 > 6. C#
-
+> 7. django
 
 ### I'm working on . . .
->  for now im learning _Django_ and _Rust_.
+>  for now im learning _Rust_.
 > 
 >  if there where time i like to learn _Javascript_ or even _Erlang_!
 
