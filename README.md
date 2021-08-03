@@ -36,4 +36,4 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
 
 > ![arya shabane](https://s4.uupload.ir/files/in-time_bc0u.jpg)
-# time is money, i trying to spend it in my happiness way.
+# time is money, i trying to spend it in my happiness way(_knowledge for me_).
