@@ -14,9 +14,9 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 > 7. django
 
 ### I'm working on . . .
->  for now im learning _Rust_.
+>  for now im learning *django*.
 > 
->  if there where time i like to learn _Javascript_ or even _Erlang_!
+>  if there where time i like to learn _Javascript_ or even _Rust_ **!**
 
 ### My review
 > ![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
