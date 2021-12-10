@@ -1,4 +1,4 @@
-### _Hi Im Arya_
+### _Hi, Im Arya_
 
 ![arya-shabane](https://user-images.githubusercontent.com/51704066/145323735-a8f08af6-6b42-4fb2-a1f8-a9e26c4554eb.jpg)
 
@@ -22,9 +22,15 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 >  if there where time i like to learn _Javascript_ or even _Rust_ **!**
 
 ### My review
-> ![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true)
->
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+> |Review|Most Used Language|
+> |:----:|:----------------:|
+> |![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+
+
+
+
+
 
 
 ### Me on social Networks
