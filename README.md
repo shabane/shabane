@@ -1,8 +1,6 @@
-### _Hi, Im Arya_
-
 ![arya-shabane](https://user-images.githubusercontent.com/51704066/145323735-a8f08af6-6b42-4fb2-a1f8-a9e26c4554eb.jpg)
 
-
+### _Hi, Im Arya_
 _im a software engineer student in Sorush Universite in Isfahan. i like to code. i love freedom and free software (:
 my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
