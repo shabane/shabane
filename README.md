@@ -28,9 +28,10 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
 ## My review
 
-> |Review|Most Used Language|
-> |:----:|:----------------:|
-> |![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+> |Review|
+> |:----:|
+> |![My review](https://github-readme-stats.vercel.app/api?username=shabane&show_icons=true&count_private=true)|
+> |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 
@@ -45,10 +46,7 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
 
 <!--
-> ![arya shabane](https://s4.uupload.ir/files/in-time_bc0u.jpg)
-> 
-> **time is money, i trying to spend it in my happiness way(_knowledge for me_).**
-
-# you can review my project by visiting [this](https://shabane.github.io/) blog.
+if you are seeing this section, this is hidden or commneted by me.
+please if my stuff are worse it, consider any donate which you can. this help me a lot. thank you so much
 -->
 
