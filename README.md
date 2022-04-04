@@ -19,11 +19,11 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 ![Docker](https://img.shields.io/badge/-Docker-313131?logo=Docker&style=for-the-badge&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/-Nginx-313131?logo=nginx&style=for-the-badge&logoColor=009639)
 ![Debian](https://img.shields.io/badge/-Debian-313131?logo=debian&style=for-the-badge&logoColor=A81D33)
-![vuejs](https://img.shields.io/badge/-vue.js-313131?logo=vue.js&style=for-the-badge&logoColor=4FC08D)
 ![IPFS](https://img.shields.io/badge/-IPFS-313131?logo=ipfs&style=for-the-badge&logoColor=65C2CB)
 ![TOR](https://img.shields.io/badge/-TOR-313131?logo=tor%20browser&style=for-the-badge&logoColor=7D4698)
 ![hugo](https://img.shields.io/badge/-Hugo-313131?logo=hugo&style=for-the-badge)
 
+<!-- ![vuejs](https://img.shields.io/badge/-vue.js-313131?logo=vue.js&style=for-the-badge&logoColor=4FC08D) -->
 
 
 ## My review
