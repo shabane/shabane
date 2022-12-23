@@ -45,6 +45,8 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 > |[![blog](https://s4.uupload.ir/files/icons8-google-sites-50_a03l.png)](https://virgool.io/@m_shabane)|[![instagram](https://s4.uupload.ir/files/icons8-instagram-50_orrv.png)](https://www.instagram.com/arya_shabane)|[![twitter](https://s4.uupload.ir/files/icons8-twitter-circled-50_8et8.png)](https://twitter.com/m_shabane)|[![telegram](https://s4.uupload.ir/files/icons8-telegram-app-50_6jzs.png)](https://t.me/bitorbit)|
 
 
+**Note** that my pins are projects that im working on them.
+
 <!--
 if you are seeing this section, this is hidden or commneted by me.
 please if my stuff are worse it, consider any donate which you can. this help me a lot. thank you so much
