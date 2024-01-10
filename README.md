@@ -4,7 +4,6 @@
 _im a software engineer student in Sorush Universite in Isfahan. i like to code. i love freedom and free software (:
 my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
-
 ## Tech and Tools
 
 ![linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
@@ -42,7 +41,7 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 ## Me on social Networks
 > |Blog|Instagram|Twitter|Telegram|
 > |:--:|:-------:|:-----:|:------:|
-> |[![blog](https://s4.uupload.ir/files/icons8-google-sites-50_a03l.png)](https://virgool.io/@m_shabane)|[![instagram](https://s4.uupload.ir/files/icons8-instagram-50_orrv.png)](https://www.instagram.com/arya_shabane)|[![twitter](https://s4.uupload.ir/files/icons8-twitter-circled-50_8et8.png)](https://twitter.com/m_shabane)|[![telegram](https://s4.uupload.ir/files/icons8-telegram-app-50_6jzs.png)](https://t.me/bitorbit)|
+> |[![blog](https://s4.uupload.ir/files/icons8-google-sites-50_a03l.png)](https://wiregeek.ir)|[![instagram](https://s4.uupload.ir/files/icons8-instagram-50_orrv.png)](https://www.instagram.com/arya_shabane)|[![twitter](https://s4.uupload.ir/files/icons8-twitter-circled-50_8et8.png)](https://twitter.com/m_shabane)|[![telegram](https://s4.uupload.ir/files/icons8-telegram-app-50_6jzs.png)](https://t.me/bitorbit)|
 
 
 ### Notes
