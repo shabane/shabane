@@ -1,7 +1,7 @@
 ![arya-shabane](https://user-images.githubusercontent.com/51704066/145323735-a8f08af6-6b42-4fb2-a1f8-a9e26c4554eb.jpg)
 
 ## _Hi, Im Arya_
-_im a software engineer student in Sorush Universite in Isfahan. i like to code. i love freedom and free software (:
+_im a master student in software engineering. i like to code. i love freedom and free software (:
 my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 
 ## Tech and Tools
@@ -21,6 +21,7 @@ my Only __DREAM__ is travel to somewhere out of Iran for live the life._
 ![IPFS](https://img.shields.io/badge/-IPFS-313131?logo=ipfs&style=for-the-badge&logoColor=65C2CB)
 ![TOR](https://img.shields.io/badge/-TOR-313131?logo=tor%20browser&style=for-the-badge&logoColor=7D4698)
 ![hugo](https://img.shields.io/badge/-Hugo-313131?logo=hugo&style=for-the-badge)
+![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge)
 
 <!-- ![vuejs](https://img.shields.io/badge/-vue.js-313131?logo=vue.js&style=for-the-badge&logoColor=4FC08D) -->
 
